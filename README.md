@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoniaudi
-- 👀 I'm interested in development and acquiring new knowledge.
 - 🌱 I am currently pursuing a degree in Computer Science.
-- 💞️ I am eager to apply my knowledge and skills in a student position as a developer.
+- 👀 I'm interested in development and acquiring new complicated knowledge.
+- 💞️ I'm eager to apply my knowledge and skills in a student position as a developer.
 - 📫 How to reach me? Look me up on LinkedIn Yoni Audi.
 
 <!---
