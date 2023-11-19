@@ -4,7 +4,7 @@
 - 💞️ Eager to apply my knowledge and skills in a student position as a developer.
 - 📫 How to reach me? Look me up on LinkedIn Yoni Audi.
 
-I am an aspiring computer science student with a strong passion for the field. Currently pursuing my studies at HIT - Holon Institute of Technology, I also had the opportunity to participate in a student exchange program at UPM - Polytechnic University of Madrid. With a background as a former 3D animator, I have developed proficiency in understanding the 3D world and utilizing languages such as C, C++, and C#. Alongside my academic pursuits, I find joy in traveling, meditation, reading, and staying active through sports. With a dedicated and creative mindset, I am eager to embark on a career as a developer and contribute my knowledge to the industry.
+  As an aspiring software engineer deeply passionate about the dynamic realm of technology, I am currently in the final phase of my B.Sc. at HIT - Holon Institute of Technology and have broadened my horizons through a student exchange program at UPM - Polytechnic University of Madrid. Beyond academics, my interests span travel, meditation, reading, and an active lifestyle. Armed with a dedicated and creative mindset, I am actively seeking internship or full-time opportunities. My journey is set towards a rewarding career as a software engineer, where I aspire to be the best in my field and contribute significantly to the industry's evolution.
 <!---
 yoniaudi/yoniaudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
