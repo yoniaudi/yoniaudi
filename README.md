@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yoniaudi
-- 🌱 Currently pursuing a degree in Computer Science.
+- 🌱 B.Sc Computer Science.
 - 👀 Interested in development and acquiring new complicated knowledge.
 - 💞️ Eager to apply my knowledge and skills as a software developer.
 - 📫 How to reach me? Look me up on LinkedIn Yoni Audi.
