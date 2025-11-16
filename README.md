@@ -36,7 +36,7 @@ compilation, signing, packaging and store uploads (iOS, Android, Windows).
 ---
 
 ### 📫 Let’s connect
--> [LinkedIn – Yoni Audi](https://www.linkedin.com/in/yoniaudi/)
+[LinkedIn – Yoni Audi](https://www.linkedin.com/in/yoniaudi/)
 
 <!---
 yoniaudi/yoniaudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
