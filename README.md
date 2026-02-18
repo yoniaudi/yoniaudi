@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Yoni Audi
 ### 💻 Cross-Engine Developer  
-C++ / C# / Objective-C / Python / Java
+C++ / C# / Python / Objective-C<br>
 Custom Engines / Unity / Cocos2d-x
 
 ---
