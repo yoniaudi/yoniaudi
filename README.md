@@ -17,8 +17,9 @@ and platform-specific build systems. My responsibility is ensuring the SDK runs<
 ### 💡 What I Actually Do
 - Develop C++ and C# engine-specific adapters that connect the company’s SDK<br>
 to Unity, Cocos2d-x and other runtimes.
+- Develop graphics systems for Android, macOS, iOS and Windows.
 - Build and maintain a Python-based multi-platform build & deployment pipeline automating<br>
-compilation, signing, packaging and store uploads (iOS, Android, Windows).
+compilation, signing, packaging and store uploads (Android, iOS and Windows).
 - Collaborate with QA and product to maintain reliable cross-platform behaviour.
 
 -> I’m passionate about clean architecture and cross-platform consistency.<br>
