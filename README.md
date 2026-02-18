@@ -1,15 +1,15 @@
 ## 👋 Hi, I’m Yoni Audi
 ### 💻 Cross-Engine Developer  
--> C++ / C# / Python / Unity / Cocos2d-x
+C++ / C# / Python / Objective-C / Custom Engines / Unity / Cocos2d-x
 
 ---
 
 ### 🚀 About Me
--> I’m a cross-engine developer focused on building adapters,<br>
+I’m a cross-engine developer focused on building adapters,<br>
 tools and integration layers that allow complex SDKs to work seamlessly
 <br>across multiple game engines.
 
--> At Anzu.io, I work at the intersection of C++, Unity, Cocos2d-x<br>
+At Anzu.io, I work at the intersection of C++, Unity, Cocos2d-x<br>
 and platform-specific build systems. My responsibility is ensuring the SDK runs<br>smoothly inside real game engines through robust adapters and engineering infrastructure.
 
 ---
