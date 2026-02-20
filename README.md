@@ -25,7 +25,6 @@ compilation, signing, packaging and store uploads (Android, iOS and Windows).
 
 -> I’m passionate about clean architecture and cross-platform consistency.<br>
 -> My work sits at the point where game engines meet native code.<br>
--> I enjoy solving the engineering challenges that sit behind the scenes of great games.
 
 ---
 
